@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "%ox\n" $DECIMAL
+printf "%ox\n" $DECIMAL
